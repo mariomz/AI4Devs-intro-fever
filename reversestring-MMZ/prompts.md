@@ -1,5 +1,5 @@
 # Chatbot used
-Copilot 4o
+ChatGPT 4-o
 
 # Prompt used
 ````
